@@ -1,4 +1,4 @@
-# ⟡ Zephyr — Weather App
+# ⟡ Weather App
 
 A beautiful, full-featured weather web application built with Python (Flask) and the OpenWeatherMap API.
 
